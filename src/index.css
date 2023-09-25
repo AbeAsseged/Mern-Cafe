@@ -1,12 +1,13 @@
 /* //W13D4 */
 
-/* * CSS Custom Properties */ */
+/* * CSS Custom Properties */ 
+
 :root {
   --white: #FFFFFF;
-  --tan-1: #15eb11;
-  --tan-2: #2714d5;
-  --tan-3: #18e6d4;
-  --tan-4: #ed6e13ae;
+  --tan-1: #f6fbfb;
+  --tan-2: #dde3e7;
+  --tan-3: #d1dee2;
+  --tan-4: #aed1d3;
   --blue: #007Ff7;
   --text-light: #968c84;
   --text-dark: #615954;
@@ -153,6 +154,7 @@ button[type="submit"] {
   grid-column: span 2;
   margin: 1vmin 0 0;
 }
+
 
 
 
